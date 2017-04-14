@@ -7,8 +7,8 @@ Care for your plants with water and fertilizer.
 Make sure you pay attention to the weather! It will have an effect on your plants.  
 
 ### Technologies:
-React Native
-Node.js
+React Native  
+Node.js  
 
 ### Developers:
 
