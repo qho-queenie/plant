@@ -13,15 +13,15 @@ Node.js
 ### Developers:
 
 ###### Queenie Ho
-https://github.com/qho-queenie
-http://queenieio.com
+https://github.com/qho-queenie  
+http://queenieio.com  
 https://www.linkedin.com/in/queenieho1/  
 
 ###### Chris Rollins
-https://github.com/chrisrollins
-http://www.chrisrollins.io/
+https://github.com/chrisrollins  
+http://www.chrisrollins.io/  
 https://www.linkedin.com/in/chris-rollins-2669a053/  
 
 ###### Elliot Young
-https://github.com/elliotsyoung
-https://www.linkedin.com/in/elliot-young-5768199a/
+https://github.com/elliotsyoung  
+https://www.linkedin.com/in/elliot-young-5768199a/  
